@@ -1,0 +1,5 @@
+{"games":[
+    {"name":"com.NeonBadgerGames.Tank","url":"https://play.google.com/store/apps/details?id=com.NeonBadgerGames.Tank","img":"https://cdn.jsdelivr.net/gh/pauliusCib123/nbg-cdn/images/tanks.jpg","weight":100},
+    {"name":"com.NeonBadgerGames.Food","url":"https://play.google.com/store/apps/details?id=com.NeonBadgerGames.Food","img":"https://cdn.jsdelivr.net/gh/pauliusCib123/nbg-cdn/images/food.jpg","weight":10},
+    {"name":"com.NeonBadgerGames.merge.monsters","url":"https://play.google.com/store/apps/details?id=com.NeonBadgerGames.merge.monsters","img":"https://cdn.jsdelivr.net/gh/pauliusCib123/nbg-cdn/images/merge-monsters.jpg","weight":150}
+]}
